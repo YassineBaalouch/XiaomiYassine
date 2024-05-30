@@ -1,0 +1,4 @@
+TestDriverPath=c:\\chromedriver.exe
+Web_Link=https://mistore.com.tn/
+Web_Link_2=https://mistore.com.tn/product-category/maison-connectee/
+Web_Link_3=https://mistore.com.tn/product/mi-temperature-and-humidity-monitor-pro/
